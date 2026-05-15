@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|c:\\users\\zs2_6a\\desktop\\krzychu11\\kalkulator\\kalkulator_apps\\krzysztof rusnak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|solutionrelative:kalkulator_apps\\krzysztof rusnak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|c:\\users\\zs2_6a\\desktop\\krzychu11\\kalkulator\\kalkulator_apps\\krzysztof rusnak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|solutionrelative:kalkulator_apps\\krzysztof rusnak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|c:\\users\\zs2_6a\\desktop\\krzychu11\\kalkulator\\kalkulator_apps\\krzysztof rusnak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1287D568-1561-4A10-97D1-020A4944F2D0}|Kalkulator_APPs\\Kalkulator_APPs.csproj|solutionrelative:kalkulator_apps\\krzysztof rusnak.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\kalkulator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kalkulator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Krzysztof Rusnak.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "RelativeDocumentMoniker": "Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "ToolTip": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.cs [Design]",
+              "RelativeToolTip": "Kalkulator_APPs\\Krzysztof Rusnak.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:51:40.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Krzysztof Rusnak.cs",
+              "DocumentMoniker": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "RelativeDocumentMoniker": "Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "ToolTip": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "RelativeToolTip": "Kalkulator_APPs\\Krzysztof Rusnak.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAMwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:06:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Krzysztof Rusnak.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.Designer.cs",
+              "RelativeDocumentMoniker": "Kalkulator_APPs\\Krzysztof Rusnak.Designer.cs",
+              "ToolTip": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\Kalkulator_APPs\\Krzysztof Rusnak.Designer.cs",
+              "RelativeToolTip": "Kalkulator_APPs\\Krzysztof Rusnak.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:06:07.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\kalkulator\\Program.cs",
+              "RelativeDocumentMoniker": "kalkulator\\Program.cs",
+              "ToolTip": "C:\\Users\\zs2_6a\\Desktop\\Krzychu11\\kalkulator\\kalkulator\\Program.cs",
+              "RelativeToolTip": "kalkulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:40:13.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

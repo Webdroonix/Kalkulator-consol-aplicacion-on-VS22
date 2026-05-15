@@ -1,0 +1,11 @@
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\bin\Debug\Kalkulator_APPs.exe.config
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\bin\Debug\Kalkulator_APPs.exe
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\bin\Debug\Kalkulator_APPs.pdb
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.csproj.AssemblyReference.cache
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.Form1.resources
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.Properties.Resources.resources
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.csproj.GenerateResource.cache
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.csproj.CoreCompileInputs.cache
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.exe
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.pdb
+C:\Users\zs2_6a\Desktop\Krzychu11\kalkulator\Kalkulator_APPs\obj\Debug\Kalkulator_APPs.exe.config
